@@ -1,0 +1,132 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border-color: black;
+  
+    
+}
+#invitation-container{
+    background-color: pink;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 50px;
+    max-width: 500px;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+header h1{
+    color: black;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+header h2{
+    color: black;
+    font-size: 30px;
+    
+}
+#party-details{
+    display: flex;
+    align-items: center;
+}
+
+.party-details{
+    text-align: left;
+    line-height: 10px;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(240, 205, 211);
+}
+    
+
+.intro{
+    font-size: 25px;
+    margin-bottom: 20px;
+    line-height: 25px;
+    font-weight: bold;
+    font-style: italic;
+  
+  
+}
+.activities{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 30px;
+    
+   
+}
+.list{
+    font-size: 20px;
+    list-style:circle;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-style: italic;
+   
+  
+}
+.list li{
+
+    margin-bottom: 8px;
+    line-height: 15px;
+   
+}
+.when-where{
+    margin-bottom: 5px;
+    font-weight: bold;
+    line-height: 20px;
+
+
+}
+.note{
+    font-style: italic;
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 20px;
+}
+.rsvp{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.rsvp-details{
+    margin-bottom: 15px;
+    font-size: 20px;
+    line-height: 20px;
+}
+.end{
+
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.dog-image{
+    width: 250px;
+    
+    border-radius: 50%;
+    
+    display: block;
+
+    margin-left: 630px;
+  
+   
+    border-radius: 10px;
+    margin-bottom: 20px auto;
+   
+}
+footer{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
